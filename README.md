@@ -1,0 +1,2 @@
+# customize-the-editor-window-using-templates-in-blazor-scheduler
+A quick start Blazor project that helps you to learn how to customize the editor window using templates in Blazor Scheduler. In this video, you will learn how to customize the editor window using a custom template. You will also learn how to add Syncfusion Blazor components like Dropdown List, Text Box, and DateTime Picker to the Blazor Scheduler editor window.
