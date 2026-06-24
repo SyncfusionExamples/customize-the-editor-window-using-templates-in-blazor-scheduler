@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a quick start Blazor project that demonstrates how to customize the editor window using templates in Blazor Scheduler. The project provides comprehensive examples of implementing custom editor templates with Syncfusion Blazor components to create a professional scheduling application with enhanced user experience and data validation capabilities.
+This is a quick start Blazor project that demonstrates how to customize the editor window using templates in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler). The project provides comprehensive examples of implementing custom editor templates with Syncfusion Blazor components to create a professional scheduling application with enhanced user experience and data validation capabilities.
 
 ## Features
 
