@@ -1,7 +1,5 @@
 # Customize the Editor Window Using Templates in Blazor Scheduler
 
-## Project Description
-
 This is a quick start Blazor project that demonstrates how to customize the editor window using templates in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler). The project provides comprehensive examples of implementing custom editor templates with Syncfusion Blazor components to create a professional scheduling application with enhanced user experience and data validation capabilities.
 
 ## Features
@@ -21,15 +19,13 @@ This is a quick start Blazor project that demonstrates how to customize the edit
 
 * Visual Studio 2022 or later
 * .NET 6.0 or later
-* Basic knowledge of Blazor and C#
 
-## Installation & Setup
+## How to Run the Project
 
-1. **Clone or checkout** this project to a location on your disk
-2. **Open the solution file** using Visual Studio 2022
-3. **Restore NuGet packages** by rebuilding the solution
-4. **Build the project** to ensure all dependencies are resolved
-5. **Run the project** to launch the Blazor application
+1. Checkout this project to your local machine
+2. Open the solution file using Visual Studio 2022
+3. Build the solution to restore the required NuGet packages
+4. Press `F5` to start the application
 
 ## Documentation
 
