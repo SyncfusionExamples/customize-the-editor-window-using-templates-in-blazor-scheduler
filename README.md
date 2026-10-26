@@ -17,13 +17,13 @@ This is a quick start Blazor project that demonstrates how to customize the edit
 
 ## Prerequisites
 
-* Visual Studio 2022 or later
-* .NET 6.0 or later
+* Visual Studio 2026 or Visual Studio Code with C# Dev Kit
+* .NET 10 SDK
 
 ## How to Run the Project
 
 1. Checkout this project to your local machine
-2. Open the solution file using Visual Studio 2022
+2. Open the solution file using Visual Studio or run `dotnet run` in the `CustomEditorWindow` folder
 3. Build the solution to restore the required NuGet packages
 4. Press `F5` to start the application
 
