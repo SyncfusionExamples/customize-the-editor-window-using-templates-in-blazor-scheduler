@@ -1,6 +1,6 @@
 # Customize the Editor Window Using Templates in Blazor Scheduler
 
-This is a quick start Blazor project that demonstrates how to customize the editor window using templates in [Blazor Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler). The project provides comprehensive examples of implementing custom editor templates with Syncfusion Blazor components to create a professional scheduling application with enhanced user experience and data validation capabilities.
+This is a quick start Blazor project that demonstrates how to customize the editor window using templates in [Blazor Scheduler](https://www.syncfusion.com/scheduler-sdk/blazor-scheduler). The project provides comprehensive examples of implementing custom editor templates with Syncfusion Blazor components to create a professional scheduling application with enhanced user experience and data validation capabilities.
 
 ## Features
 
@@ -11,29 +11,41 @@ This is a quick start Blazor project that demonstrates how to customize the edit
 * **Data Binding**: Bind custom components to event data properties
 * **Responsive Design**: Create adaptive editor interfaces for various screen sizes
 
-## Live Demo
-
-**Example**: https://blazor.syncfusion.com/demos/scheduler/editor-template?theme=bootstrap4
-
 ## Prerequisites
 
-* Visual Studio 2026 or Visual Studio Code with C# Dev Kit
-* .NET 10 SDK
+- Visual Studio 2026 or Visual Studio Code
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 
-## How to Run the Project
+## How to run the project
 
-1. Checkout this project to your local machine
-2. Open the solution file using Visual Studio or run `dotnet run` in the `CustomEditorWindow` folder
-3. Build the solution to restore the required NuGet packages
-4. Press `F5` to start the application
+**Visual Studio 2026**:
+
+* Checkout this project to a location in your disk.
+* Open the project (`CustomEditorWindow.csproj`) file.
+* Restore the NuGet packages.
+* Run the project.
+
+**Visual Studio Code**:
+
+* Open the repository folder in Visual Studio Code.
+* Open the integrated terminal.
+* Navigate to the repository root.
+
+```bash
+cd customize-the-editor-window-using-templates-in-blazor-scheduler
+dotnet restore
+dotnet run
+```
+
+Open the URL displayed in the terminal after the application starts.
 
 ## Documentation
 
 ### Blazor Framework Resources
 
 * **Blazor Introduction**: https://blazor.syncfusion.com/documentation/introduction
-* **Scheduler Getting Started**: https://blazor.syncfusion.com/documentation/schedule/getting-started
-* **Editor Template Documentation**: https://blazor.syncfusion.com/documentation/scheduler/editor-template/#event-editor
+* **Scheduler Getting Started**: https://help.syncfusion.com/scheduler-sdk/blazor/schedule/getting-started-with-server-app
+* **Editor Template Documentation**: https://help.syncfusion.com/scheduler-sdk/blazor/schedule/editor-template#event-editor
 
 ## Key Components
 
@@ -43,6 +55,10 @@ This project demonstrates the use of the following Syncfusion Blazor components:
 * **DropdownList**: For selecting predefined values
 * **TextBox**: For text input in custom editors
 * **DateTimePicker**: For date and time selection
+
+## Live Demo
+
+**Example**: https://blazor.syncfusion.com/demos/scheduler/editor-template?theme=fluent2
 
 ## Support
 
