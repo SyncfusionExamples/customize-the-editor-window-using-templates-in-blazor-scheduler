@@ -1,4 +1,4 @@
-using CustomEditorWindow.Client;
+using CustomEditorWindow;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Syncfusion.Blazor;
